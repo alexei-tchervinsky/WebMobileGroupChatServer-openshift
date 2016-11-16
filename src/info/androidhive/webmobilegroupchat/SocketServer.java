@@ -20,7 +20,7 @@ import org.json.JSONObject;
 
 import com.google.common.collect.Maps;
 
-@ServerEndpoint("/chat")
+//@ServerEndpoint("/chat")
 public class SocketServer {
 
 	// set to store all the live sessions
